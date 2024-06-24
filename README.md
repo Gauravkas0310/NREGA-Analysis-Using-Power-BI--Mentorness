@@ -1,2 +1,2 @@
 The National Rural Employment Guarantee Act (NREGA) is a pivotal initiative aimed at enhancing livelihood security in rural areas by providing at least 100 days of wage employment in a financial year to every household whose adult members volunteer to do unskilled manual work. This analysis seeks to evaluate the effectiveness, regional disparities, budget utilization, key factors, and policy optimization of the NREGA scheme using data-driven insights.
-![image](https://github.com/Gauravkas0310/NREGA-Analysis-Using-Power-BI--Mentorness/assets/108974412/675b7477-ce52-4ebd-8137-8a6d379d480c)
+
